@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Nancy and I'm currently a student. I have taken courses in C, C++, Java, JavaScript, HTML/CSS, and Python. Introduction to the named programming languages have been through educational(courses) and Youtube tutorials. 
+- 👋 Hi, My name is Nancy and I'm currently a graduate student at CSUN, obtaining my MS in Computer Science. I have taken courses in C, C++, Java, JavaScript, HTML/CSS, and Python. Introduction to the named programming languages have been through educational(courses) and Youtube tutorials. 
 I am looking forward in improving upon my coursework. Thanks
 
 
