@@ -1,5 +1,5 @@
-- 👋 Hi, My name is Nancy and I'm currently a graduate student at CSUN, obtaining my MS in Computer Science. I have taken courses in C, C++, Java, JavaScript, HTML/CSS, Python and R. Introduction to the named programming languages have been through educational(courses) and Youtube tutorials. 
-I am looking forward in improving upon my coursework. I am interested in the field of Data Science/Data Analysis.  
+- 👋 Hi, My name is Nancy and I'm a recent graduate student from CSU Northridge, where I obtained my MS in Computer Science. I have taken courses in C, C++, Java, JavaScript, HTML/CSS, Python and R. Introduction to the named programming languages have been through educational(courses) and Youtube tutorials. 
+The projects completed are from coursework, hackathons and personal projects. 
 
 <!---
 nancyAfycodes/nancyAfycodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
